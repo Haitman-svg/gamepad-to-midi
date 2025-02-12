@@ -15,14 +15,15 @@ The reason I created this app is because many existing gamepad-to-MIDI solutions
 
 ## Requirements
 - **Virtual MIDI Port:** You will need a virtual MIDI driver (e.g., LoopBe1 or LoopMidi) to route MIDI data from the app to your DAW or MIDI software.
-- **Python Dependencies:** The .bat file automatically includes dependencies for Pygame and Mido.
+- **Python Dependencies:** The requirement file automatically includes dependencies for Pygame and Mido.
 
 ## Installation
 
 1. **Install Python** (if not already installed) from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/).
 2. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/Gamepad-to-MIDI.git ```
+   git clone https://github.com/yourusername/Gamepad-to-MIDI.git
+	```
 
 ## Running the App
 
