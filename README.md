@@ -22,7 +22,7 @@ The reason I created this app is because many existing gamepad-to-MIDI solutions
 1. **Install Python** (if not already installed) from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/).
 2. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/Gamepad-to-MIDI.git
+   git clone https://github.com/Krocosr/gamepad-to-midi.git
 	```
 
 ## Running the App
